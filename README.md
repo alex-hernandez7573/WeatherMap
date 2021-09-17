@@ -1,5 +1,6 @@
 # WeatherMap
-Removed from Codeup Web Exercises and Making it its own SPA
+Removed from Codeup Web Exercises and Making it its own repo
+
 
 
 SPA that displays a functional weather map utilizing two different APIs that updates dynamically with the user's input for 
